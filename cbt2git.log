@@ -1,0 +1,18 @@
+2023-08-06 06:20:07.703539 - Initialized conversion of CBT662
+2023-08-06 06:20:07.811545 - Received CBT.V505.FILE662.PDS from FILE662.XMI 
+2023-08-06 06:20:07.814401 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE662.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:20:07.815674 - Found $DOC.txt (text/plain) in CBT.V505.FILE662.PDS, moved to PDS/$DOC
+2023-08-06 06:20:07.816821 - Found $ZDOC.txt (text/plain) in CBT.V505.FILE662.PDS, moved to PDS/$ZDOC
+2023-08-06 06:20:07.817794 - Found @FILE662.txt (text/plain) in CBT.V505.FILE662.PDS, moved to PDS/@FILE662
+2023-08-06 06:20:07.818899 - Found @INDEX.txt (text/plain) in CBT.V505.FILE662.PDS, moved to PDS/@INDEX
+2023-08-06 06:20:07.819960 - Found FAKEAOF.txt (text/plain) in CBT.V505.FILE662.PDS, moved to PDS/FAKEAOF
+2023-08-06 06:20:07.821225 - Found FDONE.txt (text/plain) in CBT.V505.FILE662.PDS, moved to PDS/FDONE
+2023-08-06 06:20:07.822538 - Found FSF.txt (text/plain) in CBT.V505.FILE662.PDS, moved to PDS/FSF
+2023-08-06 06:20:07.823817 - Found FTAPE.txt (text/plain) in CBT.V505.FILE662.PDS, moved to PDS/FTAPE
+2023-08-06 06:20:07.825158 - Found KTAPE.txt (text/plain) in CBT.V505.FILE662.PDS, moved to PDS/KTAPE
+2023-08-06 06:20:07.826146 - Found STAPE.txt (text/plain) in CBT.V505.FILE662.PDS, moved to PDS/STAPE
+2023-08-06 06:20:07.827453 - Found VTAPE1.x-shellscript (text/x-shellscript) in CBT.V505.FILE662.PDS, moved to PDS/VTAPE1
+2023-08-06 06:20:07.828711 - Found VTAPE2.x-shellscript (text/x-shellscript) in CBT.V505.FILE662.PDS, moved to PDS/VTAPE2
+2023-08-06 06:20:07.829871 - Found ZDONE.txt (text/plain) in CBT.V505.FILE662.PDS, moved to PDS/ZDONE
+2023-08-06 06:20:07.830916 - Found ZSTAPE.txt (text/plain) in CBT.V505.FILE662.PDS, moved to PDS/ZSTAPE
+2023-08-06 06:20:07.832160 - Found ZTAPE.txt (text/plain) in CBT.V505.FILE662.PDS, moved to PDS/ZTAPE
